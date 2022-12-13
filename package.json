@@ -1,7 +1,7 @@
 {
   "name": "MobileVR",
   "version": "0.0.1",
-  "private": true,
+  "homepage": "https://vish05.github.io/UdemyMobileVR/",
   "scripts": {
     "start": "node node_modules/react-360/scripts/packager.js",
     "bundle": "node node_modules/react-360/scripts/bundle.js",
